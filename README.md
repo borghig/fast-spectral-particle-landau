@@ -11,10 +11,12 @@ If you use this code, please cite:
 Giacomo Borghi and Lorenzo Pareschi. *A fast spectral particle method for the Landau equation*. Manuscript, 2026.
 
 ```bibtex
-@unpublished{borghi2026fast,
-  title  = {A fast spectral particle method for the {Landau} equation},
-  author = {Borghi, Giacomo and Pareschi, Lorenzo},
-  year   = {2026},
-  note   = {Manuscript}
+@misc{borghi2026fast,
+  title         = {A fast spectral particle method for the {Landau} equation},
+  author        = {Borghi, Giacomo and Pareschi, Lorenzo},
+  year          = {2026},
+  archivePrefix = {arXiv},
+  eprint        = {},
+  url           = {}
 }
 ```
