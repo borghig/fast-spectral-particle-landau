@@ -1,6 +1,6 @@
 # Fast Spectral Particle Method for the Landau Equation
 
-MATLAB implementation of a fast spectral particle method for the Landau equation, using non-uniform fast Fourier transforms (NUFFTs) to accelerate the computations.
+MATLAB implementation of a fast spectral particle method for the homogeneous 2D Landau equation, using non-uniform fast Fourier transforms (NUFFTs) to accelerate the computations.
 
 This repository contains the implementation and scripts for reproducing the numerical experiments in the accompanying paper.
 
